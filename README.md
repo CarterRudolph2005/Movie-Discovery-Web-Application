@@ -10,10 +10,12 @@ This project uses React.js with Tailwind CSS create an interactive website that 
 - <b>Tailwind CSS</b>
 
 <h2>Technical Skills</h2>
-<p>- Developed a responsive single-page application (SPA) leveraging React.js for component-based architecture and seamless user interaction.</p>
-<p>- Engineered a modern user experience across desktop and mobile platforms using Tailwind CSS for utility-first styling.</p>
-<p>- Implemented robust API key and data management practices to dynamically fetch and populate movie card data, ensuring efficient content delivery.</p>
-<p>- Optimized API consumption and enhanced performance by integrating a debounce function to limit sequential requests and prevent potential server overloads.</p>
+<ul>
+  <li> Developed a responsive single-page application (SPA) leveraging React.js for component-based architecture and seamless user interaction.</p>
+  <li> Engineered a modern user experience across desktop and mobile platforms using Tailwind CSS for utility-first styling.</p>
+  <li> Implemented robust API key and data management practices to dynamically fetch and populate movie card data, ensuring efficient content delivery.</p>
+  <li> Optimized API consumption and enhanced performance by integrating a debounce function to limit sequential requests and prevent potential server overloads.</p>
+</ul>
 
 <h2>Project Display</h2>
 
